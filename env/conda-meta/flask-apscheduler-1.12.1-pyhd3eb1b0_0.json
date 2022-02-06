@@ -1,0 +1,195 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "apscheduler",
+    "apscheduler >=3.2.0",
+    "flask >=0.10.1",
+    "python",
+    "python-dateutil >=2.4.2"
+  ],
+  "extracted_package_dir": "C:\\Users\\aasif\\anaconda3\\pkgs\\flask-apscheduler-1.12.1-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "LICENSE",
+    "Lib/site-packages/Flask_APScheduler-1.12.1.dist-info/INSTALLER",
+    "Lib/site-packages/Flask_APScheduler-1.12.1.dist-info/LICENSE",
+    "Lib/site-packages/Flask_APScheduler-1.12.1.dist-info/METADATA",
+    "Lib/site-packages/Flask_APScheduler-1.12.1.dist-info/RECORD",
+    "Lib/site-packages/Flask_APScheduler-1.12.1.dist-info/REQUESTED",
+    "Lib/site-packages/Flask_APScheduler-1.12.1.dist-info/WHEEL",
+    "Lib/site-packages/Flask_APScheduler-1.12.1.dist-info/direct_url.json",
+    "Lib/site-packages/Flask_APScheduler-1.12.1.dist-info/top_level.txt",
+    "Lib/site-packages/flask_apscheduler/__init__.py",
+    "Lib/site-packages/flask_apscheduler/api.py",
+    "Lib/site-packages/flask_apscheduler/auth.py",
+    "Lib/site-packages/flask_apscheduler/json.py",
+    "Lib/site-packages/flask_apscheduler/scheduler.py",
+    "Lib/site-packages/flask_apscheduler/utils.py",
+    ".nonadmin",
+    "Lib/site-packages/flask_apscheduler/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/flask_apscheduler/__pycache__/api.cpython-37.pyc",
+    "Lib/site-packages/flask_apscheduler/__pycache__/auth.cpython-37.pyc",
+    "Lib/site-packages/flask_apscheduler/__pycache__/json.cpython-37.pyc",
+    "Lib/site-packages/flask_apscheduler/__pycache__/scheduler.cpython-37.pyc",
+    "Lib/site-packages/flask_apscheduler/__pycache__/utils.cpython-37.pyc"
+  ],
+  "fn": "flask-apscheduler-1.12.1-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "2c1eb3b347293e21ce8b81b76109837a",
+  "legacy_bz2_size": 17897,
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\Users\\aasif\\anaconda3\\pkgs\\flask-apscheduler-1.12.1-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "9b277b4a39e04d20c99349a796843f6c",
+  "name": "flask-apscheduler",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\aasif\\anaconda3\\pkgs\\flask-apscheduler-1.12.1-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "LICENSE",
+        "path_type": "hardlink",
+        "sha256": "839f02ddc28f61c22417f5cabbf1b25a6dc5befe455f1e6bcb9bb05500aff13e",
+        "sha256_in_prefix": "839f02ddc28f61c22417f5cabbf1b25a6dc5befe455f1e6bcb9bb05500aff13e",
+        "size_in_bytes": 11346
+      },
+      {
+        "_path": "site-packages/Flask_APScheduler-1.12.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/Flask_APScheduler-1.12.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "839f02ddc28f61c22417f5cabbf1b25a6dc5befe455f1e6bcb9bb05500aff13e",
+        "sha256_in_prefix": "839f02ddc28f61c22417f5cabbf1b25a6dc5befe455f1e6bcb9bb05500aff13e",
+        "size_in_bytes": 11346
+      },
+      {
+        "_path": "site-packages/Flask_APScheduler-1.12.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "136161381061bfbf0fa479f2afcc4715c8b1ada092da8cf9c2dafe845c416d2d",
+        "sha256_in_prefix": "136161381061bfbf0fa479f2afcc4715c8b1ada092da8cf9c2dafe845c416d2d",
+        "size_in_bytes": 924
+      },
+      {
+        "_path": "site-packages/Flask_APScheduler-1.12.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "eb22e5ee8b14dbfaf86b14807d42a867eeec5524a68321985d8b25e2afa2f8c7",
+        "sha256_in_prefix": "eb22e5ee8b14dbfaf86b14807d42a867eeec5524a68321985d8b25e2afa2f8c7",
+        "size_in_bytes": 1658
+      },
+      {
+        "_path": "site-packages/Flask_APScheduler-1.12.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/Flask_APScheduler-1.12.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/Flask_APScheduler-1.12.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "c762cf51254ccf91c07d2ff9730c4df7d9d6780a8e942aa2ebefeea79ad982c2",
+        "sha256_in_prefix": "c762cf51254ccf91c07d2ff9730c4df7d9d6780a8e942aa2ebefeea79ad982c2",
+        "size_in_bytes": 90
+      },
+      {
+        "_path": "site-packages/Flask_APScheduler-1.12.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "49d669c2e71ba637ef085ee0cde81646ba58933237ebb78bda13b20cbeb7039c",
+        "sha256_in_prefix": "49d669c2e71ba637ef085ee0cde81646ba58933237ebb78bda13b20cbeb7039c",
+        "size_in_bytes": 18
+      },
+      {
+        "_path": "site-packages/flask_apscheduler/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ea4fee7dc9cf589cba70076044e87ae502fa1b15ef56c6c415b30d805e364bb9",
+        "sha256_in_prefix": "ea4fee7dc9cf589cba70076044e87ae502fa1b15ef56c6c415b30d805e364bb9",
+        "size_in_bytes": 760
+      },
+      {
+        "_path": "site-packages/flask_apscheduler/api.py",
+        "path_type": "hardlink",
+        "sha256": "3ee901de0441353d71670f255bde4be92242f7419a99405e65603eaa8ef0f094",
+        "sha256_in_prefix": "3ee901de0441353d71670f255bde4be92242f7419a99405e65603eaa8ef0f094",
+        "size_in_bytes": 3871
+      },
+      {
+        "_path": "site-packages/flask_apscheduler/auth.py",
+        "path_type": "hardlink",
+        "sha256": "b6365b39536678a47eb32d957c7c66e0fadf66dd9917b3af8bc904cf709f1310",
+        "sha256_in_prefix": "b6365b39536678a47eb32d957c7c66e0fadf66dd9917b3af8bc904cf709f1310",
+        "size_in_bytes": 3004
+      },
+      {
+        "_path": "site-packages/flask_apscheduler/json.py",
+        "path_type": "hardlink",
+        "sha256": "d6b6174fb1271717a608569ad392153bf5b97d2cc538cf1fca7f8a33ab592ef4",
+        "sha256_in_prefix": "d6b6174fb1271717a608569ad392153bf5b97d2cc538cf1fca7f8a33ab592ef4",
+        "size_in_bytes": 818
+      },
+      {
+        "_path": "site-packages/flask_apscheduler/scheduler.py",
+        "path_type": "hardlink",
+        "sha256": "46b045893c4123cd0428d7b7025b58d133683d6e335ae1b18e32b7bb1af08454",
+        "sha256_in_prefix": "46b045893c4123cd0428d7b7025b58d133683d6e335ae1b18e32b7bb1af08454",
+        "size_in_bytes": 13227
+      },
+      {
+        "_path": "site-packages/flask_apscheduler/utils.py",
+        "path_type": "hardlink",
+        "sha256": "b417e30246215a878bf6bd8929de840eecaea51321657ce1c8feebc65b34bd25",
+        "sha256_in_prefix": "b417e30246215a878bf6bd8929de840eecaea51321657ce1c8feebc65b34bd25",
+        "size_in_bytes": 4895
+      },
+      {
+        "_path": "Lib/site-packages/flask_apscheduler/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_apscheduler/__pycache__/api.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_apscheduler/__pycache__/auth.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_apscheduler/__pycache__/json.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_apscheduler/__pycache__/scheduler.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_apscheduler/__pycache__/utils.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "flask-apscheduler==1.12.1",
+  "sha256": "d0750ecbd40d0d3ce9acc95297e510a2428dae28b975f431056a0fdfa88e2962",
+  "size": 16599,
+  "subdir": "noarch",
+  "timestamp": 1616007756696,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/flask-apscheduler-1.12.1-pyhd3eb1b0_0.conda",
+  "version": "1.12.1"
+}

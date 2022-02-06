@@ -1,0 +1,254 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.5",
+    "semantic_version >=2.6.0",
+    "setuptools >=41",
+    "toml >=0.9.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\aasif\\anaconda3\\pkgs\\setuptools-rust-0.11.6-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/setuptools_rust-0.11.6.dist-info/INSTALLER",
+    "Lib/site-packages/setuptools_rust-0.11.6.dist-info/LICENSE",
+    "Lib/site-packages/setuptools_rust-0.11.6.dist-info/METADATA",
+    "Lib/site-packages/setuptools_rust-0.11.6.dist-info/RECORD",
+    "Lib/site-packages/setuptools_rust-0.11.6.dist-info/REQUESTED",
+    "Lib/site-packages/setuptools_rust-0.11.6.dist-info/WHEEL",
+    "Lib/site-packages/setuptools_rust-0.11.6.dist-info/direct_url.json",
+    "Lib/site-packages/setuptools_rust-0.11.6.dist-info/entry_points.txt",
+    "Lib/site-packages/setuptools_rust-0.11.6.dist-info/top_level.txt",
+    "Lib/site-packages/setuptools_rust-0.11.6.dist-info/zip-safe",
+    "Lib/site-packages/setuptools_rust/__init__.py",
+    "Lib/site-packages/setuptools_rust/build.py",
+    "Lib/site-packages/setuptools_rust/check.py",
+    "Lib/site-packages/setuptools_rust/clean.py",
+    "Lib/site-packages/setuptools_rust/extension.py",
+    "Lib/site-packages/setuptools_rust/setuptools_ext.py",
+    "Lib/site-packages/setuptools_rust/test.py",
+    "Lib/site-packages/setuptools_rust/tomlgen.py",
+    "Lib/site-packages/setuptools_rust/utils.py",
+    "Lib/site-packages/setuptools_rust/version.py",
+    ".nonadmin",
+    "Lib/site-packages/setuptools_rust/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/setuptools_rust/__pycache__/build.cpython-37.pyc",
+    "Lib/site-packages/setuptools_rust/__pycache__/check.cpython-37.pyc",
+    "Lib/site-packages/setuptools_rust/__pycache__/clean.cpython-37.pyc",
+    "Lib/site-packages/setuptools_rust/__pycache__/extension.cpython-37.pyc",
+    "Lib/site-packages/setuptools_rust/__pycache__/setuptools_ext.cpython-37.pyc",
+    "Lib/site-packages/setuptools_rust/__pycache__/test.cpython-37.pyc",
+    "Lib/site-packages/setuptools_rust/__pycache__/tomlgen.cpython-37.pyc",
+    "Lib/site-packages/setuptools_rust/__pycache__/utils.cpython-37.pyc",
+    "Lib/site-packages/setuptools_rust/__pycache__/version.cpython-37.pyc"
+  ],
+  "fn": "setuptools-rust-0.11.6-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "5783545e601a6ee7276fe1cc5695a025",
+  "legacy_bz2_size": 19729,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\aasif\\anaconda3\\pkgs\\setuptools-rust-0.11.6-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "25a5f4383f0bccf9541cfb1a57c059aa",
+  "name": "setuptools-rust",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\aasif\\anaconda3\\pkgs\\setuptools-rust-0.11.6-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/setuptools_rust-0.11.6.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/setuptools_rust-0.11.6.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "b20668c1590582b3882854050ccfbdb7aee1f71a1ffe9eacc4c5aeb08a14161b",
+        "sha256_in_prefix": "b20668c1590582b3882854050ccfbdb7aee1f71a1ffe9eacc4c5aeb08a14161b",
+        "size_in_bytes": 1089
+      },
+      {
+        "_path": "site-packages/setuptools_rust-0.11.6.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "cd3acbd4aa12d0675a130ffe73e6c3690d006fcd7aece37c943fa6b1b883fcf8",
+        "sha256_in_prefix": "cd3acbd4aa12d0675a130ffe73e6c3690d006fcd7aece37c943fa6b1b883fcf8",
+        "size_in_bytes": 8123
+      },
+      {
+        "_path": "site-packages/setuptools_rust-0.11.6.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "61e95f1861a9c041e9581ddf1781b69d208316693bc074671def35ce5c02cc2a",
+        "sha256_in_prefix": "61e95f1861a9c041e9581ddf1781b69d208316693bc074671def35ce5c02cc2a",
+        "size_in_bytes": 2313
+      },
+      {
+        "_path": "site-packages/setuptools_rust-0.11.6.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/setuptools_rust-0.11.6.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4bacde3c36d4023ccc9a960e8367070f1b98156c3b5a2397b7aa2033a8480794",
+        "sha256_in_prefix": "4bacde3c36d4023ccc9a960e8367070f1b98156c3b5a2397b7aa2033a8480794",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/setuptools_rust-0.11.6.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "f93beaba3a6f220eeed1bfa20c8e7b09d49f9584a145d57ba184b4d334db0e83",
+        "sha256_in_prefix": "f93beaba3a6f220eeed1bfa20c8e7b09d49f9584a145d57ba184b4d334db0e83",
+        "size_in_bytes": 88
+      },
+      {
+        "_path": "site-packages/setuptools_rust-0.11.6.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "5a1fabae4fbe5cdac603f0e422517b0d35eea7540c0196368692af12271f19f0",
+        "sha256_in_prefix": "5a1fabae4fbe5cdac603f0e422517b0d35eea7540c0196368692af12271f19f0",
+        "size_in_bytes": 323
+      },
+      {
+        "_path": "site-packages/setuptools_rust-0.11.6.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "45841365ed489e3ef1b4f74084ca04b62565a5e6128cd0abe8798336c370b775",
+        "sha256_in_prefix": "45841365ed489e3ef1b4f74084ca04b62565a5e6128cd0abe8798336c370b775",
+        "size_in_bytes": 16
+      },
+      {
+        "_path": "site-packages/setuptools_rust-0.11.6.dist-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/setuptools_rust/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d9d3ea89fda1ef1002d35c5886b370f193d0005d9583e7c87763a5083d40369b",
+        "sha256_in_prefix": "d9d3ea89fda1ef1002d35c5886b370f193d0005d9583e7c87763a5083d40369b",
+        "size_in_bytes": 481
+      },
+      {
+        "_path": "site-packages/setuptools_rust/build.py",
+        "path_type": "hardlink",
+        "sha256": "9cab12276cdd2683962da9b410a4e53023f9cecabb169d3a5bb3586a75665cc8",
+        "sha256_in_prefix": "9cab12276cdd2683962da9b410a4e53023f9cecabb169d3a5bb3586a75665cc8",
+        "size_in_bytes": 12719
+      },
+      {
+        "_path": "site-packages/setuptools_rust/check.py",
+        "path_type": "hardlink",
+        "sha256": "a9eb4af85014f36a977f3b1d063d0cc37c59d600ba8989b5c26fa826be16d8d4",
+        "sha256_in_prefix": "a9eb4af85014f36a977f3b1d063d0cc37c59d600ba8989b5c26fa826be16d8d4",
+        "size_in_bytes": 3668
+      },
+      {
+        "_path": "site-packages/setuptools_rust/clean.py",
+        "path_type": "hardlink",
+        "sha256": "f39eff929f23ec7d832eaece7441e8bd59a203460ab7e7300f92182f3e89e32f",
+        "sha256_in_prefix": "f39eff929f23ec7d832eaece7441e8bd59a203460ab7e7300f92182f3e89e32f",
+        "size_in_bytes": 1016
+      },
+      {
+        "_path": "site-packages/setuptools_rust/extension.py",
+        "path_type": "hardlink",
+        "sha256": "33a543444426c6a0878049df32bb012c0a8210f81a39273ce2c6932b8c063c7f",
+        "sha256_in_prefix": "33a543444426c6a0878049df32bb012c0a8210f81a39273ce2c6932b8c063c7f",
+        "size_in_bytes": 5825
+      },
+      {
+        "_path": "site-packages/setuptools_rust/setuptools_ext.py",
+        "path_type": "hardlink",
+        "sha256": "cd4aa789451be55493c62d0acd03bcb95ca706a8359bd150098c2a723a7a3abf",
+        "sha256_in_prefix": "cd4aa789451be55493c62d0acd03bcb95ca706a8359bd150098c2a723a7a3abf",
+        "size_in_bytes": 4635
+      },
+      {
+        "_path": "site-packages/setuptools_rust/test.py",
+        "path_type": "hardlink",
+        "sha256": "1c43d20a8a8718db75758fa4857b088c30e02b729874666e88b8c01bda328f8c",
+        "sha256_in_prefix": "1c43d20a8a8718db75758fa4857b088c30e02b729874666e88b8c01bda328f8c",
+        "size_in_bytes": 2978
+      },
+      {
+        "_path": "site-packages/setuptools_rust/tomlgen.py",
+        "path_type": "hardlink",
+        "sha256": "d08013294321b1e79c5a009408eb2cf1c732fcafc177f35d68f75036dcb63640",
+        "sha256_in_prefix": "d08013294321b1e79c5a009408eb2cf1c732fcafc177f35d68f75036dcb63640",
+        "size_in_bytes": 8951
+      },
+      {
+        "_path": "site-packages/setuptools_rust/utils.py",
+        "path_type": "hardlink",
+        "sha256": "5dc9147c5fd4d58fbd60a7f3c2e76f0ffccc4698e34349c6f9c550328a08a301",
+        "sha256_in_prefix": "5dc9147c5fd4d58fbd60a7f3c2e76f0ffccc4698e34349c6f9c550328a08a301",
+        "size_in_bytes": 2044
+      },
+      {
+        "_path": "site-packages/setuptools_rust/version.py",
+        "path_type": "hardlink",
+        "sha256": "ad57a83dd00ad19186c3c78cfcdc73c451da91b4c9efcea99ab372de2af0571a",
+        "sha256_in_prefix": "ad57a83dd00ad19186c3c78cfcdc73c451da91b4c9efcea99ab372de2af0571a",
+        "size_in_bytes": 117
+      },
+      {
+        "_path": "Lib/site-packages/setuptools_rust/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/setuptools_rust/__pycache__/build.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/setuptools_rust/__pycache__/check.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/setuptools_rust/__pycache__/clean.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/setuptools_rust/__pycache__/extension.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/setuptools_rust/__pycache__/setuptools_ext.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/setuptools_rust/__pycache__/test.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/setuptools_rust/__pycache__/tomlgen.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/setuptools_rust/__pycache__/utils.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/setuptools_rust/__pycache__/version.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "setuptools-rust==0.11.6",
+  "sha256": "32c0886a726270dc36db533e01c5c24cc97c9d292bae2fb4c680565ff89ba765",
+  "size": 20317,
+  "subdir": "noarch",
+  "timestamp": 1607972886532,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/setuptools-rust-0.11.6-pyhd3eb1b0_0.conda",
+  "version": "0.11.6"
+}

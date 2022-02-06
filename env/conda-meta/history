@@ -1,0 +1,500 @@
+==> 2022-01-18 20:33:55 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py create --prefix ./env python=3.7 -y
+# conda version: 4.10.1
++defaults/noarch::wheel-0.37.1-pyhd3eb1b0_0
++defaults/win-64::ca-certificates-2021.10.26-haa95532_2
++defaults/win-64::certifi-2021.10.8-py37haa95532_2
++defaults/win-64::openssl-1.1.1m-h2bbff1b_0
++defaults/win-64::pip-21.2.4-py37haa95532_0
++defaults/win-64::python-3.7.11-h6244533_0
++defaults/win-64::setuptools-58.0.4-py37haa95532_0
++defaults/win-64::sqlite-3.37.0-h2bbff1b_0
++defaults/win-64::vc-14.2-h21ff451_1
++defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-64::wincertstore-0.2-py37haa95532_2
+# update specs: ['python=3.7']
+==> 2022-01-18 23:49:08 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env APScheduler==3.7.0 -y
+# conda version: 4.11.0
++defaults/noarch::pytz-2021.3-pyhd3eb1b0_0
++defaults/noarch::six-1.16.0-pyhd3eb1b0_0
++defaults/win-64::apscheduler-3.7.0-py37haa95532_0
++defaults/win-64::tzlocal-2.0.0-py37haa95532_0
+# update specs: ['apscheduler==3.7.0']
+==> 2022-01-18 23:49:12 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env Click==7.0 -y
+# conda version: 4.11.0
++defaults/win-64::click-7.0-py37_0
+# update specs: ['click==7.0']
+==> 2022-01-18 23:49:16 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env Flask-APScheduler==1.12.1 -y
+# conda version: 4.11.0
++defaults/noarch::dataclasses-0.8-pyh6d0b6a4_7
++defaults/noarch::flask-1.1.2-pyhd3eb1b0_0
++defaults/noarch::flask-apscheduler-1.12.1-pyhd3eb1b0_0
++defaults/noarch::itsdangerous-2.0.1-pyhd3eb1b0_0
++defaults/noarch::jinja2-3.0.2-pyhd3eb1b0_0
++defaults/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0
++defaults/noarch::werkzeug-2.0.2-pyhd3eb1b0_0
++defaults/win-64::markupsafe-2.0.1-py37h2bbff1b_0
+# update specs: ['flask-apscheduler==1.12.1']
+==> 2022-01-18 23:49:19 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env Flask-Compress==1.9.0 -y
+# conda version: 4.11.0
++defaults/noarch::flask-compress-1.9.0-pyhd3eb1b0_0
++defaults/win-64::brotli-python-1.0.9-py37h82bb817_2
+# update specs: ['flask-compress==1.9.0']
+==> 2022-01-18 23:49:23 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env Flask-Cors==3.0.8 -y
+# conda version: 4.11.0
++defaults/noarch::flask-cors-3.0.8-py_0
+# update specs: ['flask-cors==3.0.8']
+==> 2022-01-18 23:49:31 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env Flask==1.1.1 -y
+# conda version: 4.11.0
+-defaults/noarch::flask-1.1.2-pyhd3eb1b0_0
++defaults/noarch::flask-1.1.1-py_1
+# update specs: ['flask==1.1.1']
+==> 2022-01-18 23:49:36 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env MarkupSafe==1.1.1 -y
+# conda version: 4.11.0
+-defaults/noarch::jinja2-3.0.2-pyhd3eb1b0_0
+-defaults/win-64::markupsafe-2.0.1-py37h2bbff1b_0
++defaults/noarch::jinja2-2.11.3-pyhd3eb1b0_0
++defaults/win-64::markupsafe-1.1.1-py37hfa6e2cd_1
+# update specs: ['markupsafe==1.1.1']
+==> 2022-01-18 23:49:39 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env PyYAML==5.3 -y
+# conda version: 4.11.0
++defaults/win-64::pyyaml-5.3-py37he774522_0
++defaults/win-64::yaml-0.1.7-hc54c509_2
+# update specs: ['pyyaml==5.3']
+==> 2022-01-18 23:49:46 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env Werkzeug==0.16.1 -y
+# conda version: 4.11.0
+-defaults/noarch::werkzeug-2.0.2-pyhd3eb1b0_0
++defaults/noarch::werkzeug-0.16.1-py_0
+# update specs: ['werkzeug==0.16.1']
+==> 2022-01-18 23:49:51 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env aiohttp==3.7.3 -y
+# conda version: 4.11.0
++defaults/noarch::attrs-21.4.0-pyhd3eb1b0_0
++defaults/noarch::idna-3.3-pyhd3eb1b0_0
++defaults/noarch::typing-extensions-3.10.0.2-hd3eb1b0_0
++defaults/noarch::typing_extensions-3.10.0.2-pyh06a4308_0
++defaults/win-64::aiohttp-3.7.3-py37h2bbff1b_1
++defaults/win-64::async-timeout-3.0.1-py37haa95532_0
++defaults/win-64::chardet-3.0.4-py37haa95532_1003
++defaults/win-64::multidict-4.7.6-py37he774522_1
++defaults/win-64::yarl-1.5.1-py37he774522_0
+# update specs: ['aiohttp==3.7.3']
+==> 2022-01-18 23:49:55 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env atomicwrites==1.4.0 -y
+# conda version: 4.11.0
++defaults/noarch::atomicwrites-1.4.0-py_0
+# update specs: ['atomicwrites==1.4.0']
+==> 2022-01-18 23:50:00 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env attrs==19.3.0 -y
+# conda version: 4.11.0
+-defaults/noarch::attrs-21.4.0-pyhd3eb1b0_0
++defaults/noarch::attrs-19.3.0-py_0
+# update specs: ['attrs==19.3.0']
+==> 2022-01-18 23:50:12 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env bidict==0.21.2 -y
+# conda version: 4.11.0
++defaults/noarch::bidict-0.21.2-pyhd3eb1b0_0
+# update specs: ['bidict==0.21.2']
+==> 2022-01-18 23:50:23 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env boto3==1.17.22 -y
+# conda version: 4.11.0
++defaults/noarch::boto3-1.17.22-pyhd3eb1b0_0
++defaults/noarch::botocore-1.20.109-pyhd3eb1b0_1
++defaults/noarch::jmespath-0.10.0-pyhd3eb1b0_0
++defaults/noarch::pycparser-2.21-pyhd3eb1b0_0
++defaults/noarch::pyopenssl-21.0.0-pyhd3eb1b0_1
++defaults/noarch::s3transfer-0.3.6-pyhd3eb1b0_0
++defaults/noarch::urllib3-1.26.7-pyhd3eb1b0_0
++defaults/win-64::brotlipy-0.7.0-py37h2bbff1b_1003
++defaults/win-64::cffi-1.15.0-py37h2bbff1b_0
++defaults/win-64::cryptography-36.0.0-py37h21b164f_0
++defaults/win-64::pysocks-1.7.1-py37_1
++defaults/win-64::win_inet_pton-1.1.0-py37haa95532_0
+# update specs: ['boto3==1.17.22']
+==> 2022-01-18 23:50:31 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env botocore==1.20.22 -y
+# conda version: 4.11.0
+-defaults/noarch::botocore-1.20.109-pyhd3eb1b0_1
++defaults/noarch::botocore-1.20.22-pyhd3eb1b0_1
+# update specs: ['botocore==1.20.22']
+==> 2022-01-18 23:50:36 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env cachetools==4.2.1 -y
+# conda version: 4.11.0
++defaults/noarch::cachetools-4.2.1-pyhd3eb1b0_0
+# update specs: ['cachetools==4.2.1']
+==> 2022-01-18 23:50:43 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env certifi==2019.11.28 -y
+# conda version: 4.11.0
+-defaults/win-64::certifi-2021.10.8-py37haa95532_2
++defaults/win-64::certifi-2019.11.28-py37_1
+# update specs: ['certifi==2019.11.28']
+==> 2022-01-18 23:50:49 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env cffi==1.14.4 -y
+# conda version: 4.11.0
+-defaults/win-64::certifi-2019.11.28-py37_1
+-defaults/win-64::cffi-1.15.0-py37h2bbff1b_0
++defaults/win-64::certifi-2021.10.8-py37haa95532_2
++defaults/win-64::cffi-1.14.4-py37hcd4344a_0
+# update specs: ['cffi==1.14.4']
+# neutered specs: ['certifi']
+==> 2022-01-18 23:50:54 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env colorama==0.4.4 -y
+# conda version: 4.11.0
++defaults/noarch::colorama-0.4.4-pyhd3eb1b0_0
+# update specs: ['colorama==0.4.4']
+==> 2022-01-18 23:51:00 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env configparser==5.0.1 -y
+# conda version: 4.11.0
++defaults/noarch::configparser-5.0.1-py_0
+# update specs: ['configparser==5.0.1']
+==> 2022-01-18 23:51:05 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env cycler==0.10.0 -y
+# conda version: 4.11.0
++defaults/win-64::cycler-0.10.0-py37_0
+# update specs: ['cycler==0.10.0']
+==> 2022-01-18 23:51:08 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env cymem==2.0.3 -y
+# conda version: 4.11.0
++defaults/win-64::cymem-2.0.3-py37ha925a31_0
+# update specs: ['cymem==2.0.3']
+==> 2022-01-18 23:51:18 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env dash-renderer==1.9.0 -y
+# conda version: 4.11.0
++defaults/noarch::dash-renderer-1.9.0-pyhd3eb1b0_0
+# update specs: ['dash-renderer==1.9.0']
+==> 2022-01-18 23:51:24 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env dill==0.3.3 -y
+# conda version: 4.11.0
++defaults/noarch::dill-0.3.3-pyhd3eb1b0_0
+# update specs: ['dill==0.3.3']
+==> 2022-01-18 23:51:27 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env dnspython==1.16.0 -y
+# conda version: 4.11.0
++defaults/win-64::dnspython-1.16.0-py37_0
+# update specs: ['dnspython==1.16.0']
+==> 2022-01-18 23:51:31 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env future==0.18.2 -y
+# conda version: 4.11.0
++defaults/win-64::future-0.18.2-py37_1
+# update specs: ['future==0.18.2']
+==> 2022-01-18 23:51:39 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env google-auth==1.27.1 -y
+# conda version: 4.11.0
++defaults/noarch::google-auth-1.27.1-pyhd3eb1b0_0
++defaults/noarch::pyasn1-0.4.8-pyhd3eb1b0_0
++defaults/noarch::pyasn1-modules-0.2.8-py_0
++defaults/noarch::rsa-4.7.2-pyhd3eb1b0_1
+# update specs: ['google-auth==1.27.1']
+==> 2022-01-18 23:51:46 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env google-cloud-core==1.6.0 -y
+# conda version: 4.11.0
++defaults/noarch::charset-normalizer-2.0.4-pyhd3eb1b0_0
++defaults/noarch::google-api-core-1.25.1-pyhd3eb1b0_0
++defaults/noarch::google-cloud-core-1.6.0-pyhd3eb1b0_0
++defaults/noarch::requests-2.27.1-pyhd3eb1b0_0
++defaults/win-64::googleapis-common-protos-1.53.0-py37h2eaa2aa_0
++defaults/win-64::libprotobuf-3.19.1-h23ce68f_0
++defaults/win-64::protobuf-3.19.1-py37hd77b12b_0
++defaults/win-64::zlib-1.2.11-h8cc25b3_4
+# update specs: ['google-cloud-core==1.6.0']
+==> 2022-01-18 23:51:52 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env google-cloud-storage==1.36.2 -y
+# conda version: 4.11.0
++defaults/noarch::google-cloud-storage-1.36.2-pyhd3eb1b0_0
++defaults/noarch::google-resumable-media-1.3.1-pyhd3eb1b0_1
++defaults/win-64::google-crc32c-1.1.2-py37h2bbff1b_0
++defaults/win-64::libcrc32c-1.1.1-ha925a31_2
+# update specs: ['google-cloud-storage==1.36.2']
+==> 2022-01-18 23:52:02 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env google-resumable-media==1.2.0 -y
+# conda version: 4.11.0
+-defaults/noarch::google-resumable-media-1.3.1-pyhd3eb1b0_1
++defaults/noarch::google-resumable-media-1.2.0-pyhd3eb1b0_1
+# update specs: ['google-resumable-media==1.2.0']
+==> 2022-01-18 23:52:09 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env greenlet==1.0.0 -y
+# conda version: 4.11.0
++defaults/win-64::greenlet-1.0.0-py37hd77b12b_2
+# update specs: ['greenlet==1.0.0']
+==> 2022-01-18 23:52:21 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env idna==2.10 -y
+# conda version: 4.11.0
+-defaults/noarch::idna-3.3-pyhd3eb1b0_0
++defaults/noarch::idna-2.10-pyhd3eb1b0_0
+# update specs: ['idna==2.10']
+==> 2022-01-18 23:52:32 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env iniconfig==1.1.1 -y
+# conda version: 4.11.0
++defaults/noarch::iniconfig-1.1.1-pyhd3eb1b0_0
+# update specs: ['iniconfig==1.1.1']
+==> 2022-01-18 23:52:36 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env isodate==0.6.0 -y
+# conda version: 4.11.0
++defaults/noarch::isodate-0.6.0-pyhd3eb1b0_1
+# update specs: ['isodate==0.6.0']
+==> 2022-01-18 23:52:39 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env itsdangerous==1.1.0 -y
+# conda version: 4.11.0
+-defaults/noarch::itsdangerous-2.0.1-pyhd3eb1b0_0
++defaults/win-64::itsdangerous-1.1.0-py37_0
+# update specs: ['itsdangerous==1.1.0']
+==> 2022-01-18 23:52:48 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env joblib==0.14.1 -y
+# conda version: 4.11.0
++defaults/noarch::joblib-0.14.1-py_0
+# update specs: ['joblib==0.14.1']
+==> 2022-01-18 23:52:52 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env jsonschema==3.2.0 -y
+# conda version: 4.11.0
++defaults/noarch::importlib_metadata-4.8.2-hd3eb1b0_0
++defaults/noarch::jsonschema-3.2.0-pyhd3eb1b0_2
++defaults/noarch::zipp-3.7.0-pyhd3eb1b0_0
++defaults/win-64::importlib-metadata-4.8.2-py37haa95532_0
++defaults/win-64::pyrsistent-0.18.0-py37h196d8e1_0
+# update specs: ['jsonschema==3.2.0']
+==> 2022-01-18 23:52:56 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env kiwisolver==1.1.0 -y
+# conda version: 4.11.0
++defaults/win-64::kiwisolver-1.1.0-py37ha925a31_0
+# update specs: ['kiwisolver==1.1.0']
+==> 2022-01-18 23:53:45 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env matplotlib==3.1.2 -y
+# conda version: 4.11.0
++defaults/noarch::pyparsing-3.0.4-pyhd3eb1b0_0
++defaults/win-64::blas-1.0-mkl
++defaults/win-64::freetype-2.10.4-hd328e21_0
++defaults/win-64::icu-58.2-ha925a31_3
++defaults/win-64::intel-openmp-2021.4.0-haa95532_3556
++defaults/win-64::jpeg-9d-h2bbff1b_0
++defaults/win-64::libpng-1.6.37-h2a8f88b_0
++defaults/win-64::matplotlib-3.1.2-py37_1
++defaults/win-64::matplotlib-base-3.1.2-py37h64f37c6_1
++defaults/win-64::mkl-2021.4.0-haa95532_640
++defaults/win-64::mkl-service-2.4.0-py37h2bbff1b_0
++defaults/win-64::mkl_fft-1.3.1-py37h277e83a_0
++defaults/win-64::mkl_random-1.2.2-py37hf11a4ad_0
++defaults/win-64::numpy-1.21.2-py37hfca59bb_0
++defaults/win-64::numpy-base-1.21.2-py37h0829f74_0
++defaults/win-64::pyqt-5.9.2-py37h6538335_2
++defaults/win-64::qt-5.9.7-vc14h73c81de_0
++defaults/win-64::sip-4.19.8-py37h6538335_0
++defaults/win-64::tornado-6.1-py37h2bbff1b_0
+# update specs: ['matplotlib==3.1.2']
+==> 2022-01-18 23:53:56 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env msrest==0.6.21 -y
+# conda version: 4.11.0
+-defaults/win-64::cryptography-36.0.0-py37h21b164f_0
++defaults/noarch::msrest-0.6.21-pyhd3eb1b0_0
++defaults/noarch::oauthlib-3.1.1-pyhd3eb1b0_0
++defaults/noarch::requests-oauthlib-1.3.0-py_0
++defaults/win-64::blinker-1.4-py37haa95532_0
++defaults/win-64::cryptography-3.4.8-py37h71e12ea_0
++defaults/win-64::pyjwt-2.1.0-py37haa95532_0
+# update specs: ['msrest==0.6.21']
+==> 2022-01-18 23:56:13 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env murmurhash==1.0.2 -y
+# conda version: 4.11.0
++defaults/win-64::murmurhash-1.0.2-py37h33f27b4_0
+# update specs: ['murmurhash==1.0.2']
+==> 2022-01-18 23:56:18 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env nest-asyncio==1.5.1 -y
+# conda version: 4.11.0
++defaults/noarch::nest-asyncio-1.5.1-pyhd3eb1b0_0
+# update specs: ['nest-asyncio==1.5.1']
+==> 2022-01-18 23:56:33 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env numpy==1.18.1 -y
+# conda version: 4.11.0
+-defaults/win-64::mkl-2021.4.0-haa95532_640
+-defaults/win-64::mkl-service-2.4.0-py37h2bbff1b_0
+-defaults/win-64::mkl_fft-1.3.1-py37h277e83a_0
+-defaults/win-64::mkl_random-1.2.2-py37hf11a4ad_0
+-defaults/win-64::numpy-1.21.2-py37hfca59bb_0
+-defaults/win-64::numpy-base-1.21.2-py37h0829f74_0
++defaults/win-64::icc_rt-2019.0.0-h0cc432a_1
++defaults/win-64::mkl-2020.2-256
++defaults/win-64::mkl-service-2.3.0-py37h196d8e1_0
++defaults/win-64::mkl_fft-1.3.0-py37h46781fe_0
++defaults/win-64::mkl_random-1.1.1-py37h47e9c7a_0
++defaults/win-64::numpy-1.18.1-py37h93ca92e_0
++defaults/win-64::numpy-base-1.18.1-py37hc3f5095_1
+# update specs: ['numpy==1.18.1']
+==> 2022-01-18 23:56:46 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env oauthlib==3.1.0 -y
+# conda version: 4.11.0
+-defaults/noarch::oauthlib-3.1.1-pyhd3eb1b0_0
++defaults/noarch::oauthlib-3.1.0-py_0
+# update specs: ['oauthlib==3.1.0']
+==> 2022-01-18 23:56:52 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env packaging==20.9 -y
+# conda version: 4.11.0
++defaults/noarch::packaging-20.9-pyhd3eb1b0_0
+# update specs: ['packaging==20.9']
+==> 2022-01-18 23:57:03 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env pandas==0.25.3 -y
+# conda version: 4.11.0
++defaults/win-64::pandas-0.25.3-py37ha925a31_0
+# update specs: ['pandas==0.25.3']
+==> 2022-01-18 23:57:09 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env passlib==1.7.4 -y
+# conda version: 4.11.0
++defaults/noarch::passlib-1.7.4-pyhd3eb1b0_0
++defaults/win-64::argon2-cffi-20.1.0-py37h2bbff1b_1
++defaults/win-64::bcrypt-3.2.0-py37he774522_0
+# update specs: ['passlib==1.7.4']
+==> 2022-01-18 23:57:56 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env plotly==4.14.3 -y
+# conda version: 4.11.0
++defaults/noarch::plotly-4.14.3-pyhd3eb1b0_0
++defaults/win-64::retrying-1.3.3-py37_2
+# update specs: ['plotly==4.14.3']
+==> 2022-01-18 23:58:02 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env pluggy==0.13.1 -y
+# conda version: 4.11.0
++defaults/win-64::pluggy-0.13.1-py37haa95532_0
+# update specs: ['pluggy==0.13.1']
+==> 2022-01-18 23:58:09 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env preshed==3.0.2 -y
+# conda version: 4.11.0
++defaults/win-64::preshed-3.0.2-py37h33f27b4_1
+# update specs: ['preshed==3.0.2']
+==> 2022-01-18 23:58:19 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env psutil==5.8.0 -y
+# conda version: 4.11.0
++defaults/win-64::psutil-5.8.0-py37h2bbff1b_1
+# update specs: ['psutil==5.8.0']
+==> 2022-01-18 23:58:24 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env py==1.10.0 -y
+# conda version: 4.11.0
++defaults/noarch::py-1.10.0-pyhd3eb1b0_0
+# update specs: ['py==1.10.0']
+==> 2022-01-18 23:58:47 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env pycparser==2.20 -y
+# conda version: 4.11.0
+-defaults/noarch::pycparser-2.21-pyhd3eb1b0_0
++defaults/noarch::pycparser-2.20-py_2
+# update specs: ['pycparser==2.20']
+==> 2022-01-18 23:58:55 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env pymongo==3.11.0 -y
+# conda version: 4.11.0
++defaults/win-64::pymongo-3.11.0-py37ha925a31_0
+# update specs: ['pymongo==3.11.0']
+==> 2022-01-18 23:59:07 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env pyparsing==2.4.6 -y
+# conda version: 4.11.0
+-defaults/noarch::pyparsing-3.0.4-pyhd3eb1b0_0
++defaults/noarch::pyparsing-2.4.6-py_0
+# update specs: ['pyparsing==2.4.6']
+==> 2022-01-18 23:59:20 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env pyrsistent==0.15.7 -y
+# conda version: 4.11.0
+-defaults/win-64::pyrsistent-0.18.0-py37h196d8e1_0
++defaults/win-64::pyrsistent-0.15.7-py37he774522_0
+# update specs: ['pyrsistent==0.15.7']
+==> 2022-01-18 23:59:27 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env pytest==6.2.2 -y
+# conda version: 4.11.0
++defaults/noarch::more-itertools-8.12.0-pyhd3eb1b0_0
++defaults/noarch::toml-0.10.2-pyhd3eb1b0_0
++defaults/win-64::pytest-6.2.2-py37haa95532_2
+# update specs: ['pytest==6.2.2']
+==> 2022-01-18 23:59:41 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env python-dateutil==2.8.1 -y
+# conda version: 4.11.0
+-defaults/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0
++defaults/noarch::python-dateutil-2.8.1-pyhd3eb1b0_0
+# update specs: ['python-dateutil==2.8.1']
+==> 2022-01-18 23:59:48 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env python-engineio==3.13.2 -y
+# conda version: 4.11.0
++defaults/noarch::python-engineio-3.13.2-py_0
+# update specs: ['python-engineio==3.13.2']
+==> 2022-01-18 23:59:55 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env python-socketio==4.6.0 -y
+# conda version: 4.11.0
++defaults/noarch::python-socketio-4.6.0-py_0
+# update specs: ['python-socketio==4.6.0']
+==> 2022-01-19 00:00:13 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env pytz==2019.3 -y
+# conda version: 4.11.0
+-defaults/noarch::pytz-2021.3-pyhd3eb1b0_0
++defaults/noarch::pytz-2019.3-py_0
+# update specs: ['pytz==2019.3']
+==> 2022-01-19 00:00:36 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env requests==2.25.1 -y
+# conda version: 4.11.0
+-defaults/noarch::requests-2.27.1-pyhd3eb1b0_0
++defaults/noarch::requests-2.25.1-pyhd3eb1b0_0
+# update specs: ['requests==2.25.1']
+==> 2022-01-19 00:01:00 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env s3transfer==0.3.4 -y
+# conda version: 4.11.0
+-defaults/noarch::s3transfer-0.3.6-pyhd3eb1b0_0
++defaults/noarch::s3transfer-0.3.4-pyhd3eb1b0_0
+# update specs: ['s3transfer==0.3.4']
+==> 2022-01-19 00:01:15 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env scikit-learn==0.22.1 -y
+# conda version: 4.11.0
++defaults/win-64::scikit-learn-0.22.1-py37h6288b17_0
++defaults/win-64::scipy-1.6.2-py37h14eb087_0
+# update specs: ['scikit-learn==0.22.1']
+==> 2022-01-19 00:01:31 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env setuptools-rust==0.11.6 -y
+# conda version: 4.11.0
++defaults/noarch::semantic_version-2.8.5-pyhd3eb1b0_0
++defaults/noarch::setuptools-rust-0.11.6-pyhd3eb1b0_0
+# update specs: ['setuptools-rust==0.11.6']
+==> 2022-01-19 00:01:45 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env six==1.14.0 -y
+# conda version: 4.11.0
+-defaults/noarch::six-1.16.0-pyhd3eb1b0_0
++defaults/win-64::six-1.14.0-py37haa95532_0
+# update specs: ['six==1.14.0']
+==> 2022-01-19 00:02:12 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env threadpoolctl==2.1.0 -y
+# conda version: 4.11.0
++defaults/noarch::threadpoolctl-2.1.0-pyh5ca1d4c_0
+# update specs: ['threadpoolctl==2.1.0']
+==> 2022-01-19 00:02:31 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env typing-extensions==3.7.4.3 -y
+# conda version: 4.11.0
+-defaults/noarch::typing-extensions-3.10.0.2-hd3eb1b0_0
+-defaults/noarch::typing_extensions-3.10.0.2-pyh06a4308_0
++defaults/noarch::typing-extensions-3.7.4.3-hd3eb1b0_0
++defaults/noarch::typing_extensions-3.7.4.3-pyh06a4308_0
+# update specs: ['typing-extensions==3.7.4.3']
+==> 2022-01-19 00:05:06 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env urllib3==1.26.3 -y
+# conda version: 4.11.0
+-defaults/noarch::urllib3-1.26.7-pyhd3eb1b0_0
++defaults/noarch::urllib3-1.26.3-pyhd3eb1b0_0
+# update specs: ['urllib3==1.26.3']
+==> 2022-01-19 00:08:20 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env zope.event==4.5.0 -y
+# conda version: 4.11.0
++defaults/win-64::zope.event-4.5.0-py37_0
+# update specs: ['zope.event==4.5.0']
+==> 2022-01-19 00:08:28 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env zope.interface==5.3.0 -y
+# conda version: 4.11.0
++defaults/win-64::zope-1.0-py37_1
++defaults/win-64::zope.interface-5.3.0-py37h2bbff1b_0
+# update specs: ['zope.interface==5.3.0']
+==> 2022-01-19 00:08:34 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env lightgbm -y
+# conda version: 4.11.0
++defaults/win-64::lightgbm-3.2.1-py37hd77b12b_0
+# update specs: ['lightgbm']
+==> 2022-01-19 00:08:44 <==
+# cmd: C:\Users\aasif\anaconda3\Scripts\conda-script.py install -p E:/DataScience/ML Projects/fitbit_New/fitbit_New/env seaborn -y
+# conda version: 4.11.0
++defaults/noarch::seaborn-0.11.2-pyhd3eb1b0_0
+# update specs: ['seaborn']

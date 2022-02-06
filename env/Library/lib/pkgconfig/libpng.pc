@@ -1,0 +1,12 @@
+prefix=E:/DataScience/ML Projects/fitbit_New/fitbit_New/env/Library
+exec_prefix=E:/DataScience/ML Projects/fitbit_New/fitbit_New/env/Library
+libdir=E:/DataScience/ML Projects/fitbit_New/fitbit_New/env/Library/lib
+includedir=E:/DataScience/ML Projects/fitbit_New/fitbit_New/env/Library/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.37
+Requires: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: -lz -lm
+Cflags: -I${includedir}

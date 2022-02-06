@@ -1,0 +1,40 @@
+{
+  "build": "py37_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base 3.1.2 py37h64f37c6_1",
+    "pyqt",
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\aasif\\anaconda3\\pkgs\\matplotlib-3.1.2-py37_1",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "matplotlib-3.1.2-py37_1.conda",
+  "legacy_bz2_md5": "d8ebfe212139017b244efeccf11a9581",
+  "legacy_bz2_size": 21341,
+  "license": "PSF-based",
+  "license_family": "PSF",
+  "link": {
+    "source": "C:\\Users\\aasif\\anaconda3\\pkgs\\matplotlib-3.1.2-py37_1",
+    "type": 1
+  },
+  "md5": "5bd3be31be6508e019eaa816a1fe7e72",
+  "name": "matplotlib",
+  "package_tarball_full_path": "C:\\Users\\aasif\\anaconda3\\pkgs\\matplotlib-3.1.2-py37_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib==3.1.2",
+  "sha256": "56954b7d12c4a836502408f8ba620b018a779f707906aa8c552f78854c8d8e87",
+  "size": 22047,
+  "subdir": "win-64",
+  "timestamp": 1580491936506,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/matplotlib-3.1.2-py37_1.conda",
+  "version": "3.1.2"
+}

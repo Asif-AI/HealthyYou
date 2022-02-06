@@ -1,0 +1,721 @@
+{
+  "build": "py37haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0",
+    "pytz",
+    "setuptools",
+    "six >=1.4.0",
+    "tzlocal >=2.0,<2.1"
+  ],
+  "extracted_package_dir": "C:\\Users\\aasif\\anaconda3\\pkgs\\apscheduler-3.7.0-py37haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/APScheduler-3.7.0.dist-info/INSTALLER",
+    "Lib/site-packages/APScheduler-3.7.0.dist-info/LICENSE.txt",
+    "Lib/site-packages/APScheduler-3.7.0.dist-info/METADATA",
+    "Lib/site-packages/APScheduler-3.7.0.dist-info/RECORD",
+    "Lib/site-packages/APScheduler-3.7.0.dist-info/REQUESTED",
+    "Lib/site-packages/APScheduler-3.7.0.dist-info/WHEEL",
+    "Lib/site-packages/APScheduler-3.7.0.dist-info/direct_url.json",
+    "Lib/site-packages/APScheduler-3.7.0.dist-info/entry_points.txt",
+    "Lib/site-packages/APScheduler-3.7.0.dist-info/top_level.txt",
+    "Lib/site-packages/apscheduler/__init__.py",
+    "Lib/site-packages/apscheduler/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/__pycache__/events.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/__pycache__/job.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/__pycache__/util.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/events.py",
+    "Lib/site-packages/apscheduler/executors/__init__.py",
+    "Lib/site-packages/apscheduler/executors/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/executors/__pycache__/asyncio.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/executors/__pycache__/base.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/executors/__pycache__/base_py3.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/executors/__pycache__/debug.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/executors/__pycache__/gevent.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/executors/__pycache__/pool.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/executors/__pycache__/tornado.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/executors/__pycache__/twisted.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/executors/asyncio.py",
+    "Lib/site-packages/apscheduler/executors/base.py",
+    "Lib/site-packages/apscheduler/executors/base_py3.py",
+    "Lib/site-packages/apscheduler/executors/debug.py",
+    "Lib/site-packages/apscheduler/executors/gevent.py",
+    "Lib/site-packages/apscheduler/executors/pool.py",
+    "Lib/site-packages/apscheduler/executors/tornado.py",
+    "Lib/site-packages/apscheduler/executors/twisted.py",
+    "Lib/site-packages/apscheduler/job.py",
+    "Lib/site-packages/apscheduler/jobstores/__init__.py",
+    "Lib/site-packages/apscheduler/jobstores/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/jobstores/__pycache__/base.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/jobstores/__pycache__/memory.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/jobstores/__pycache__/mongodb.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/jobstores/__pycache__/redis.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/jobstores/__pycache__/rethinkdb.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/jobstores/__pycache__/sqlalchemy.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/jobstores/__pycache__/zookeeper.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/jobstores/base.py",
+    "Lib/site-packages/apscheduler/jobstores/memory.py",
+    "Lib/site-packages/apscheduler/jobstores/mongodb.py",
+    "Lib/site-packages/apscheduler/jobstores/redis.py",
+    "Lib/site-packages/apscheduler/jobstores/rethinkdb.py",
+    "Lib/site-packages/apscheduler/jobstores/sqlalchemy.py",
+    "Lib/site-packages/apscheduler/jobstores/zookeeper.py",
+    "Lib/site-packages/apscheduler/schedulers/__init__.py",
+    "Lib/site-packages/apscheduler/schedulers/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/schedulers/__pycache__/asyncio.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/schedulers/__pycache__/background.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/schedulers/__pycache__/base.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/schedulers/__pycache__/blocking.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/schedulers/__pycache__/gevent.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/schedulers/__pycache__/qt.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/schedulers/__pycache__/tornado.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/schedulers/__pycache__/twisted.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/schedulers/asyncio.py",
+    "Lib/site-packages/apscheduler/schedulers/background.py",
+    "Lib/site-packages/apscheduler/schedulers/base.py",
+    "Lib/site-packages/apscheduler/schedulers/blocking.py",
+    "Lib/site-packages/apscheduler/schedulers/gevent.py",
+    "Lib/site-packages/apscheduler/schedulers/qt.py",
+    "Lib/site-packages/apscheduler/schedulers/tornado.py",
+    "Lib/site-packages/apscheduler/schedulers/twisted.py",
+    "Lib/site-packages/apscheduler/triggers/__init__.py",
+    "Lib/site-packages/apscheduler/triggers/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/triggers/__pycache__/base.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/triggers/__pycache__/combining.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/triggers/__pycache__/date.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/triggers/__pycache__/interval.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/triggers/base.py",
+    "Lib/site-packages/apscheduler/triggers/combining.py",
+    "Lib/site-packages/apscheduler/triggers/cron/__init__.py",
+    "Lib/site-packages/apscheduler/triggers/cron/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/triggers/cron/__pycache__/expressions.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/triggers/cron/__pycache__/fields.cpython-37.pyc",
+    "Lib/site-packages/apscheduler/triggers/cron/expressions.py",
+    "Lib/site-packages/apscheduler/triggers/cron/fields.py",
+    "Lib/site-packages/apscheduler/triggers/date.py",
+    "Lib/site-packages/apscheduler/triggers/interval.py",
+    "Lib/site-packages/apscheduler/util.py",
+    ".nonadmin"
+  ],
+  "fn": "apscheduler-3.7.0-py37haa95532_0.conda",
+  "legacy_bz2_md5": "752b030d965233aeb010d88dee4df4c5",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\aasif\\anaconda3\\pkgs\\apscheduler-3.7.0-py37haa95532_0",
+    "type": 1
+  },
+  "md5": "f37a184492f3e1afea95f84fb37d371c",
+  "name": "apscheduler",
+  "package_tarball_full_path": "C:\\Users\\aasif\\anaconda3\\pkgs\\apscheduler-3.7.0-py37haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/APScheduler-3.7.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/APScheduler-3.7.0.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "6163f7987dfb38d6bc320ce2b70b2f02b862bc41126516d552ef1cd43247e758",
+        "sha256_in_prefix": "6163f7987dfb38d6bc320ce2b70b2f02b862bc41126516d552ef1cd43247e758",
+        "size_in_bytes": 1130
+      },
+      {
+        "_path": "Lib/site-packages/APScheduler-3.7.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "9efd0712fe313b0421f8e0f5dddba805b97cca246aae0d9e80cd793006e9a119",
+        "sha256_in_prefix": "9efd0712fe313b0421f8e0f5dddba805b97cca246aae0d9e80cd793006e9a119",
+        "size_in_bytes": 5685
+      },
+      {
+        "_path": "Lib/site-packages/APScheduler-3.7.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "8892393a1449e77b8ccc7f3e902ddd0052d308b725591fbaa8fcc2684fe06d18",
+        "sha256_in_prefix": "8892393a1449e77b8ccc7f3e902ddd0052d308b725591fbaa8fcc2684fe06d18",
+        "size_in_bytes": 6413
+      },
+      {
+        "_path": "Lib/site-packages/APScheduler-3.7.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/APScheduler-3.7.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+        "sha256_in_prefix": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "Lib/site-packages/APScheduler-3.7.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "2cfbddc3a43d4ed700e3a8009b63ceb6e7687ce0044cbc57bc1a4d06b3da4f5c",
+        "sha256_in_prefix": "2cfbddc3a43d4ed700e3a8009b63ceb6e7687ce0044cbc57bc1a4d06b3da4f5c",
+        "size_in_bytes": 71
+      },
+      {
+        "_path": "Lib/site-packages/APScheduler-3.7.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "ed182460dfce63209442d206863f9435c7a59c88ec366ee70bdae881d3108775",
+        "sha256_in_prefix": "ed182460dfce63209442d206863f9435c7a59c88ec366ee70bdae881d3108775",
+        "size_in_bytes": 1148
+      },
+      {
+        "_path": "Lib/site-packages/APScheduler-3.7.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "3b7a0c096c46f801e479c5283ba65eefec988d6aedb4bf79b873bcf9115d62f1",
+        "sha256_in_prefix": "3b7a0c096c46f801e479c5283ba65eefec988d6aedb4bf79b873bcf9115d62f1",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a8510adb2b1105c2e26269b775ec892756af50eba068cfe70861cc0f8d96301c",
+        "sha256_in_prefix": "a8510adb2b1105c2e26269b775ec892756af50eba068cfe70861cc0f8d96301c",
+        "size_in_bytes": 380
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "d674ac5c187d3b0e93e2e475a0b5b0be2719eaf07b4cda384e54df6f4f2904ca",
+        "sha256_in_prefix": "d674ac5c187d3b0e93e2e475a0b5b0be2719eaf07b4cda384e54df6f4f2904ca",
+        "size_in_bytes": 664
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/__pycache__/events.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "1f50d13a159df126bfc4ed5fc07b28e35e88ee19459971b5c066916fcf953006",
+        "sha256_in_prefix": "1f50d13a159df126bfc4ed5fc07b28e35e88ee19459971b5c066916fcf953006",
+        "size_in_bytes": 3555
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/__pycache__/job.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "e512b5f042067808d3cd22d91e55cc4f006a304e550968d03fc0bf5fd84051c3",
+        "sha256_in_prefix": "e512b5f042067808d3cd22d91e55cc4f006a304e550968d03fc0bf5fd84051c3",
+        "size_in_bytes": 8858
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/__pycache__/util.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "53f21b8c1a69f89e9cc4cf0e32e6bd698f71d95e1d6699b06da903ae17ab9f26",
+        "sha256_in_prefix": "53f21b8c1a69f89e9cc4cf0e32e6bd698f71d95e1d6699b06da903ae17ab9f26",
+        "size_in_bytes": 11272
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/events.py",
+        "path_type": "hardlink",
+        "sha256": "2913130d0512e9ddae567ad0bcfa33dd93d5e55f572ac08064bb20c7dd77145a",
+        "sha256_in_prefix": "2913130d0512e9ddae567ad0bcfa33dd93d5e55f572ac08064bb20c7dd77145a",
+        "size_in_bytes": 3593
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "9fd07cff5eef2877b650a01d226fadd50a354946c422b05b1147335596434de9",
+        "sha256_in_prefix": "9fd07cff5eef2877b650a01d226fadd50a354946c422b05b1147335596434de9",
+        "size_in_bytes": 138
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/__pycache__/asyncio.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "d4637f9b8390a7483b7c3b6c26bba0995f7ff186849f81e06ce6b679ae732e2c",
+        "sha256_in_prefix": "d4637f9b8390a7483b7c3b6c26bba0995f7ff186849f81e06ce6b679ae732e2c",
+        "size_in_bytes": 2284
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/__pycache__/base.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "09fd1523c832cef83ffea379b3f56c31028f70faa9ead379a4c5fbe942ec36d3",
+        "sha256_in_prefix": "09fd1523c832cef83ffea379b3f56c31028f70faa9ead379a4c5fbe942ec36d3",
+        "size_in_bytes": 5401
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/__pycache__/base_py3.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "97b1a05de162a8146474ac088479ad960837992db52dc3e62625178f04baad12",
+        "sha256_in_prefix": "97b1a05de162a8146474ac088479ad960837992db52dc3e62625178f04baad12",
+        "size_in_bytes": 1425
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/__pycache__/debug.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "9fbd00a8c4a4b9b28fd7cbb4e05d14dcccefd5455d520d5c22cd8b00252fe793",
+        "sha256_in_prefix": "9fbd00a8c4a4b9b28fd7cbb4e05d14dcccefd5455d520d5c22cd8b00252fe793",
+        "size_in_bytes": 918
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/__pycache__/gevent.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "e0de336787a4aab7c0d9a0b5bab5de499e9d57c88dbac555ba152064d5775674",
+        "sha256_in_prefix": "e0de336787a4aab7c0d9a0b5bab5de499e9d57c88dbac555ba152064d5775674",
+        "size_in_bytes": 1205
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/__pycache__/pool.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "cc981f8fb07673c88e72e3db9f5b0dca6328c57647d7a5d67a1772a0e29ee32a",
+        "sha256_in_prefix": "cc981f8fb07673c88e72e3db9f5b0dca6328c57647d7a5d67a1772a0e29ee32a",
+        "size_in_bytes": 2878
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/__pycache__/tornado.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "b104ab4e5a2331664178ca9be6416e98ac2aa659fd4a69f9a2cfb9e3795a2681",
+        "sha256_in_prefix": "b104ab4e5a2331664178ca9be6416e98ac2aa659fd4a69f9a2cfb9e3795a2681",
+        "size_in_bytes": 2301
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/__pycache__/twisted.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "82f3bf4642f50fee7412744d0f1bb8583a553a36d1fc0ba55e80b0d1e222e06b",
+        "sha256_in_prefix": "82f3bf4642f50fee7412744d0f1bb8583a553a36d1fc0ba55e80b0d1e222e06b",
+        "size_in_bytes": 1274
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/asyncio.py",
+        "path_type": "hardlink",
+        "sha256": "8e2e5fe909b6b86868bfedf0e760971d98bc8dce54fe04b9ea58ac43294a4c14",
+        "sha256_in_prefix": "8e2e5fe909b6b86868bfedf0e760971d98bc8dce54fe04b9ea58ac43294a4c14",
+        "size_in_bytes": 2087
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/base.py",
+        "path_type": "hardlink",
+        "sha256": "86882231cfedfa1bb0e813287741c4798d8585136600053234db811ef217df53",
+        "sha256_in_prefix": "86882231cfedfa1bb0e813287741c4798d8585136600053234db811ef217df53",
+        "size_in_bytes": 5336
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/base_py3.py",
+        "path_type": "hardlink",
+        "sha256": "f163a94de5f5340faca5d6c4435a09321e53d8efedd9476c6929c087e88459ed",
+        "sha256_in_prefix": "f163a94de5f5340faca5d6c4435a09321e53d8efedd9476c6929c087e88459ed",
+        "size_in_bytes": 1831
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/debug.py",
+        "path_type": "hardlink",
+        "sha256": "d79fe881207397c45109f0580e7908576b8c1fc70b9352889989816bf3551a97",
+        "sha256_in_prefix": "d79fe881207397c45109f0580e7908576b8c1fc70b9352889989816bf3551a97",
+        "size_in_bytes": 573
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/gevent.py",
+        "path_type": "hardlink",
+        "sha256": "6ae96b366a1e7f2060ace907f5ac118458972039d20a7678534a34fc95c85e07",
+        "sha256_in_prefix": "6ae96b366a1e7f2060ace907f5ac118458972039d20a7678534a34fc95c85e07",
+        "size_in_bytes": 777
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/pool.py",
+        "path_type": "hardlink",
+        "sha256": "e851144cc97758244a79b4eac02be997b0762fdcb41981f5e942ece32fd53498",
+        "sha256_in_prefix": "e851144cc97758244a79b4eac02be997b0762fdcb41981f5e942ece32fd53498",
+        "size_in_bytes": 2107
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/tornado.py",
+        "path_type": "hardlink",
+        "sha256": "0d4ef955a43d47a9c1bb2f256cf52f0ca520b2e25c66ac00bd4442e6f837afac",
+        "sha256_in_prefix": "0d4ef955a43d47a9c1bb2f256cf52f0ca520b2e25c66ac00bd4442e6f837afac",
+        "size_in_bytes": 1780
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/executors/twisted.py",
+        "path_type": "hardlink",
+        "sha256": "6d1a14d02e01a15712ebf063283e707d4b34209a469262ec44070c1f6ac926cb",
+        "sha256_in_prefix": "6d1a14d02e01a15712ebf063283e707d4b34209a469262ec44070c1f6ac926cb",
+        "size_in_bytes": 778
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/job.py",
+        "path_type": "hardlink",
+        "sha256": "242444441a5f58bba898f88d3475fe8eb96e1307c791db1c126cf88b463cadaa",
+        "sha256_in_prefix": "242444441a5f58bba898f88d3475fe8eb96e1307c791db1c126cf88b463cadaa",
+        "size_in_bytes": 11216
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/jobstores/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/jobstores/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "ea1fa1b18b495c36bb6d50885396500d416000a61f1c3dc8e06ba105a0be945e",
+        "sha256_in_prefix": "ea1fa1b18b495c36bb6d50885396500d416000a61f1c3dc8e06ba105a0be945e",
+        "size_in_bytes": 138
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/jobstores/__pycache__/base.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "dc074aef1327ffc0b8ae88d67ff79383e8f88154fed3629405c018d273b58a3a",
+        "sha256_in_prefix": "dc074aef1327ffc0b8ae88d67ff79383e8f88154fed3629405c018d273b58a3a",
+        "size_in_bytes": 6093
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/jobstores/__pycache__/memory.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "053f5a6fdbd89abff570988386c59ba3801dfae4f978004afe5d6ef0b1f86a3a",
+        "sha256_in_prefix": "053f5a6fdbd89abff570988386c59ba3801dfae4f978004afe5d6ef0b1f86a3a",
+        "size_in_bytes": 3602
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/jobstores/__pycache__/mongodb.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "8c61904454c3c7eb701343cc95769cce8e75e93faca57ed8e0737402bb5b2692",
+        "sha256_in_prefix": "8c61904454c3c7eb701343cc95769cce8e75e93faca57ed8e0737402bb5b2692",
+        "size_in_bytes": 5576
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/jobstores/__pycache__/redis.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "f49854022f658ba6512e8b62d422eadd9308c72678ccbfb30a5c9dd941e927c8",
+        "sha256_in_prefix": "f49854022f658ba6512e8b62d422eadd9308c72678ccbfb30a5c9dd941e927c8",
+        "size_in_bytes": 5483
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/jobstores/__pycache__/rethinkdb.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "60e850b38e7593b79d749a60a8ee8b1651b5ae3fa74a6a597f9f5fc342f79b8c",
+        "sha256_in_prefix": "60e850b38e7593b79d749a60a8ee8b1651b5ae3fa74a6a597f9f5fc342f79b8c",
+        "size_in_bytes": 6259
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/jobstores/__pycache__/sqlalchemy.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "4782c52a6c058a193b0ba5f2a936a0b4b533db270b6bee0bcedfdd86e04af332",
+        "sha256_in_prefix": "4782c52a6c058a193b0ba5f2a936a0b4b533db270b6bee0bcedfdd86e04af332",
+        "size_in_bytes": 6282
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/jobstores/__pycache__/zookeeper.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "0ea3d613e2f59d16dbb18acaf535ae129aa4d36343b5ea65d1df36a01b745f9c",
+        "sha256_in_prefix": "0ea3d613e2f59d16dbb18acaf535ae129aa4d36343b5ea65d1df36a01b745f9c",
+        "size_in_bytes": 6686
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/jobstores/base.py",
+        "path_type": "hardlink",
+        "sha256": "0d7cd25bd5ec72e78764732fcb5a85886faf62a525fcc32fd27d2e0526565c6a",
+        "sha256_in_prefix": "0d7cd25bd5ec72e78764732fcb5a85886faf62a525fcc32fd27d2e0526565c6a",
+        "size_in_bytes": 4523
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/jobstores/memory.py",
+        "path_type": "hardlink",
+        "sha256": "6715a22aca9fb021c5bda73ee97f41cedba19ee4b194e622d5d853ea0fa98d0a",
+        "sha256_in_prefix": "6715a22aca9fb021c5bda73ee97f41cedba19ee4b194e622d5d853ea0fa98d0a",
+        "size_in_bytes": 3655
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/jobstores/mongodb.py",
+        "path_type": "hardlink",
+        "sha256": "248eaddcf6a75ecc478e3e9fcf131dcdc641cb9cad57ce193d4fd6581e73100e",
+        "sha256_in_prefix": "248eaddcf6a75ecc478e3e9fcf131dcdc641cb9cad57ce193d4fd6581e73100e",
+        "size_in_bytes": 5335
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/jobstores/redis.py",
+        "path_type": "hardlink",
+        "sha256": "9234032333d7cfe62af7be94f472b768c91c088fd044b2a04c00d058a7b0b629",
+        "sha256_in_prefix": "9234032333d7cfe62af7be94f472b768c91c088fd044b2a04c00d058a7b0b629",
+        "size_in_bytes": 5483
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/jobstores/rethinkdb.py",
+        "path_type": "hardlink",
+        "sha256": "935ad22d826a7a3ba1431258de95f01c041872967540526ca10f27d2812ee4c3",
+        "sha256_in_prefix": "935ad22d826a7a3ba1431258de95f01c041872967540526ca10f27d2812ee4c3",
+        "size_in_bytes": 5863
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/jobstores/sqlalchemy.py",
+        "path_type": "hardlink",
+        "sha256": "6a57e4004233c1224a6d861719ce06f034de06c2dd1a1b5a73c79b8d8be8553d",
+        "sha256_in_prefix": "6a57e4004233c1224a6d861719ce06f034de06c2dd1a1b5a73c79b8d8be8553d",
+        "size_in_bytes": 6134
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/jobstores/zookeeper.py",
+        "path_type": "hardlink",
+        "sha256": "6af18b5da2468c70f417bb86eab2c9da083f4d736a5c310ce0fa8ebb9e9ff978",
+        "sha256_in_prefix": "6af18b5da2468c70f417bb86eab2c9da083f4d736a5c310ce0fa8ebb9e9ff978",
+        "size_in_bytes": 6363
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "8cceb7c40fcaec6493a017a786ccfe48272a7e1935a5d1156fa6a3c283b92aa8",
+        "sha256_in_prefix": "8cceb7c40fcaec6493a017a786ccfe48272a7e1935a5d1156fa6a3c283b92aa8",
+        "size_in_bytes": 406
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "8dc2d82e2b4d309148614f8ecfee315a9e490ac5b6f9f337786e3f0f0c43b91e",
+        "sha256_in_prefix": "8dc2d82e2b4d309148614f8ecfee315a9e490ac5b6f9f337786e3f0f0c43b91e",
+        "size_in_bytes": 963
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/__pycache__/asyncio.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "15b68ed44ae06d8959151d52323ef1506e9739e97b00eb9639a153f91792ad45",
+        "sha256_in_prefix": "15b68ed44ae06d8959151d52323ef1506e9739e97b00eb9639a153f91792ad45",
+        "size_in_bytes": 2977
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/__pycache__/background.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "cf7dac983c97f1794fd855d2dc9648fce8ff0656fbabcc70bd24bf170c5b2d6d",
+        "sha256_in_prefix": "cf7dac983c97f1794fd855d2dc9648fce8ff0656fbabcc70bd24bf170c5b2d6d",
+        "size_in_bytes": 2011
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/__pycache__/base.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "76709396d34af493d7648359dac883ec0e792c9c91f5c50882191b03b84e0d22",
+        "sha256_in_prefix": "76709396d34af493d7648359dac883ec0e792c9c91f5c50882191b03b84e0d22",
+        "size_in_bytes": 33258
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/__pycache__/blocking.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "0b1c9ab4c38c79a8f105132ba3c77817e89e13d841e92faae3e70b3911f85951",
+        "sha256_in_prefix": "0b1c9ab4c38c79a8f105132ba3c77817e89e13d841e92faae3e70b3911f85951",
+        "size_in_bytes": 1522
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/__pycache__/gevent.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "e9242d0cf9a42ecef9191005797f4e59d04630c8d6164f4a9b2128c15a6aa27b",
+        "sha256_in_prefix": "e9242d0cf9a42ecef9191005797f4e59d04630c8d6164f4a9b2128c15a6aa27b",
+        "size_in_bytes": 1575
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/__pycache__/qt.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "0aec6483e21eb56fbdda6089842ac6c1684e7a7244d6150646d720083c94e3a4",
+        "sha256_in_prefix": "0aec6483e21eb56fbdda6089842ac6c1684e7a7244d6150646d720083c94e3a4",
+        "size_in_bytes": 1817
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/__pycache__/tornado.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "af1679618ac055937d93ade382f74fde7ae91ac395558003a7cfe33cf23c17eb",
+        "sha256_in_prefix": "af1679618ac055937d93ade382f74fde7ae91ac395558003a7cfe33cf23c17eb",
+        "size_in_bytes": 2705
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/__pycache__/twisted.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "11cc4cd8de8804a82e9f1a270c305065568548d01668f40b6495a696e9817e9d",
+        "sha256_in_prefix": "11cc4cd8de8804a82e9f1a270c305065568548d01668f40b6495a696e9817e9d",
+        "size_in_bytes": 2565
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/asyncio.py",
+        "path_type": "hardlink",
+        "sha256": "06e484f2b7bad72b50b54351c35f7b88976139ea5a21ec6bdfe598103023851d",
+        "sha256_in_prefix": "06e484f2b7bad72b50b54351c35f7b88976139ea5a21ec6bdfe598103023851d",
+        "size_in_bytes": 2230
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/background.py",
+        "path_type": "hardlink",
+        "sha256": "ef9d69f9fe438baa58e31e945e5660829c50e64d8e6c9fd0e7049e5a62874bca",
+        "sha256_in_prefix": "ef9d69f9fe438baa58e31e945e5660829c50e64d8e6c9fd0e7049e5a62874bca",
+        "size_in_bytes": 1566
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/base.py",
+        "path_type": "hardlink",
+        "sha256": "82f0b4ae3cd29630cfc67d221aef83c82cbef45878f0d268638f957a86730d9a",
+        "sha256_in_prefix": "82f0b4ae3cd29630cfc67d221aef83c82cbef45878f0d268638f957a86730d9a",
+        "size_in_bytes": 43237
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/blocking.py",
+        "path_type": "hardlink",
+        "sha256": "f27b9b7c9e0fa149c090463a591406e023b31b84b11b25bd3e3b953e10c06ec9",
+        "sha256_in_prefix": "f27b9b7c9e0fa149c090463a591406e023b31b84b11b25bd3e3b953e10c06ec9",
+        "size_in_bytes": 985
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/gevent.py",
+        "path_type": "hardlink",
+        "sha256": "72c3c1bd5ef914671ba175ec75ec7a7c20fb279e1080175d60d7568fad993bd8",
+        "sha256_in_prefix": "72c3c1bd5ef914671ba175ec75ec7a7c20fb279e1080175d60d7568fad993bd8",
+        "size_in_bytes": 1031
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/qt.py",
+        "path_type": "hardlink",
+        "sha256": "bc7d991cbd0f9054dc9c77e7b14fed9c8deeedb550f35cb2daffe2b3ee7be634",
+        "sha256_in_prefix": "bc7d991cbd0f9054dc9c77e7b14fed9c8deeedb550f35cb2daffe2b3ee7be634",
+        "size_in_bytes": 1463
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/tornado.py",
+        "path_type": "hardlink",
+        "sha256": "0fd55aab711ef441625dad630f2f6d79d234e3c811fd84ff2c01545aa3bfb84c",
+        "sha256_in_prefix": "0fd55aab711ef441625dad630f2f6d79d234e3c811fd84ff2c01545aa3bfb84c",
+        "size_in_bytes": 1926
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/schedulers/twisted.py",
+        "path_type": "hardlink",
+        "sha256": "0f91018e3311b4c071cb4fda01445c50b008f0acb622f093afdb4af6c3b5ad89",
+        "sha256_in_prefix": "0f91018e3311b4c071cb4fda01445c50b008f0acb622f093afdb4af6c3b5ad89",
+        "size_in_bytes": 1844
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/triggers/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/triggers/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "977a01959e9faa9fc9c133a30521b12015d3d200b0c29822e03382cfc79f264f",
+        "sha256_in_prefix": "977a01959e9faa9fc9c133a30521b12015d3d200b0c29822e03382cfc79f264f",
+        "size_in_bytes": 137
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/triggers/__pycache__/base.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "f3cf102b0277a8f7d634f55739a69cd3258c8aa63aca35a5653131576804d146",
+        "sha256_in_prefix": "f3cf102b0277a8f7d634f55739a69cd3258c8aa63aca35a5653131576804d146",
+        "size_in_bytes": 1740
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/triggers/__pycache__/combining.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "725aad0d5855e38f67312504b6f48fc64184f6eb65ba49479f9f27af239adbfb",
+        "sha256_in_prefix": "725aad0d5855e38f67312504b6f48fc64184f6eb65ba49479f9f27af239adbfb",
+        "size_in_bytes": 4555
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/triggers/__pycache__/date.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "e8cbc22a654fb12404cdcd0edc1ca2d648e37a0d7ee033508e1fae5766a48751",
+        "sha256_in_prefix": "e8cbc22a654fb12404cdcd0edc1ca2d648e37a0d7ee033508e1fae5766a48751",
+        "size_in_bytes": 2084
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/triggers/__pycache__/interval.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "ef87aaaeaee4feb16e4a8656924e33a0a09286a8a4ce66a0b1c4a323b2e02f64",
+        "sha256_in_prefix": "ef87aaaeaee4feb16e4a8656924e33a0a09286a8a4ce66a0b1c4a323b2e02f64",
+        "size_in_bytes": 3673
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/triggers/base.py",
+        "path_type": "hardlink",
+        "sha256": "06f04974e9c87950a55cf5de227cd82b6e5c37ae2301ce1af4888442e7128959",
+        "sha256_in_prefix": "06f04974e9c87950a55cf5de227cd82b6e5c37ae2301ce1af4888442e7128959",
+        "size_in_bytes": 1355
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/triggers/combining.py",
+        "path_type": "hardlink",
+        "sha256": "925692a01a75932acf5f90f7801a4d4e5b062a392ce5078a3d6e4937f315b37d",
+        "sha256_in_prefix": "925692a01a75932acf5f90f7801a4d4e5b062a392ce5078a3d6e4937f315b37d",
+        "size_in_bytes": 3449
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/triggers/cron/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5d5772ca616c9d740cc39ee0a54d4cd2f989a39a06750fedf0102484414d3050",
+        "sha256_in_prefix": "5d5772ca616c9d740cc39ee0a54d4cd2f989a39a06750fedf0102484414d3050",
+        "size_in_bytes": 9236
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/triggers/cron/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "e1286a5736e10966d74d4301765a115cdaa16b343ef99faaf1523321a88e2ebc",
+        "sha256_in_prefix": "e1286a5736e10966d74d4301765a115cdaa16b343ef99faaf1523321a88e2ebc",
+        "size_in_bytes": 7278
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/triggers/cron/__pycache__/expressions.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "2af7df3e6e353fb189daa07e9b2a5c107762dc97b29590146f836e634d7c2410",
+        "sha256_in_prefix": "2af7df3e6e353fb189daa07e9b2a5c107762dc97b29590146f836e634d7c2410",
+        "size_in_bytes": 9088
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/triggers/cron/__pycache__/fields.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "3cb14dcf6517e186d55f967d5d41ee4969daa63754a86781ba422091991521a8",
+        "sha256_in_prefix": "3cb14dcf6517e186d55f967d5d41ee4969daa63754a86781ba422091991521a8",
+        "size_in_bytes": 4390
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/triggers/cron/expressions.py",
+        "path_type": "hardlink",
+        "sha256": "86ed64ab498abe2bc8c3b5340f4367adbba4dead35742ba167b48744fc3aaa12",
+        "sha256_in_prefix": "86ed64ab498abe2bc8c3b5340f4367adbba4dead35742ba167b48744fc3aaa12",
+        "size_in_bytes": 9184
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/triggers/cron/fields.py",
+        "path_type": "hardlink",
+        "sha256": "3563c2961d4d8123a94e5277b26d535ccfd5882daa24629691dfef834c6cc3ba",
+        "sha256_in_prefix": "3563c2961d4d8123a94e5277b26d535ccfd5882daa24629691dfef834c6cc3ba",
+        "size_in_bytes": 3510
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/triggers/date.py",
+        "path_type": "hardlink",
+        "sha256": "46b7c1d4f34ef46f5ef75a7504e7fecbf4ec7951d0411f8a24f84d74fa401dc5",
+        "sha256_in_prefix": "46b7c1d4f34ef46f5ef75a7504e7fecbf4ec7951d0411f8a24f84d74fa401dc5",
+        "size_in_bytes": 1705
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/triggers/interval.py",
+        "path_type": "hardlink",
+        "sha256": "338cba00f81e3fd0c487f5ca1db15c69428593bc006f4f97a123b9d1b478a977",
+        "sha256_in_prefix": "338cba00f81e3fd0c487f5ca1db15c69428593bc006f4f97a123b9d1b478a977",
+        "size_in_bytes": 4369
+      },
+      {
+        "_path": "Lib/site-packages/apscheduler/util.py",
+        "path_type": "hardlink",
+        "sha256": "de028a51b5b67f211ae4b9180861e76964a4da3aa3fc7ade41b1384ab2620f17",
+        "sha256_in_prefix": "de028a51b5b67f211ae4b9180861e76964a4da3aa3fc7ade41b1384ab2620f17",
+        "size_in_bytes": 14087
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "apscheduler==3.7.0",
+  "sha256": "378cbec54fea3003a9b3d2c32bcee24f935b8adac0932caf0136f75c0b726a84",
+  "size": 85223,
+  "subdir": "win-64",
+  "timestamp": 1612239543700,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/apscheduler-3.7.0-py37haa95532_0.conda",
+  "version": "3.7.0"
+}

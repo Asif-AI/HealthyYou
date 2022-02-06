@@ -1,0 +1,11 @@
+prefix=E:/DataScience/ML Projects/fitbit_New/fitbit_New/env/Library
+exec_prefix=E:/DataScience/ML Projects/fitbit_New/fitbit_New/env/Library
+libdir=E:/DataScience/ML Projects/fitbit_New/fitbit_New/env/Library/lib
+includedir=E:/DataScience/ML Projects/fitbit_New/fitbit_New/env/Library/include
+
+Name: Protocol Buffers
+Description: Google's Data Interchange Format
+Version: 3.19.1.0
+Libs: -L${libdir} -lprotobuf 
+Cflags: -I${includedir}
+Conflicts: protobuf-lite

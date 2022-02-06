@@ -1,0 +1,203 @@
+{
+  "build": "py37h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "cffi >=1.0.0",
+    "libcrc32c >=1.1.1,<1.2.0a0",
+    "python >=3.7,<3.8.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\aasif\\anaconda3\\pkgs\\google-crc32c-1.1.2-py37h2bbff1b_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/google_crc32c-1.1.2.dist-info/INSTALLER",
+    "Lib/site-packages/google_crc32c-1.1.2.dist-info/LICENSE",
+    "Lib/site-packages/google_crc32c-1.1.2.dist-info/METADATA",
+    "Lib/site-packages/google_crc32c-1.1.2.dist-info/RECORD",
+    "Lib/site-packages/google_crc32c-1.1.2.dist-info/REQUESTED",
+    "Lib/site-packages/google_crc32c-1.1.2.dist-info/WHEEL",
+    "Lib/site-packages/google_crc32c-1.1.2.dist-info/direct_url.json",
+    "Lib/site-packages/google_crc32c-1.1.2.dist-info/top_level.txt",
+    "Lib/site-packages/google_crc32c-1.1.2.dist-info/zip-safe",
+    "Lib/site-packages/google_crc32c/__config__.py",
+    "Lib/site-packages/google_crc32c/__init__.py",
+    "Lib/site-packages/google_crc32c/__pycache__/__config__.cpython-37.pyc",
+    "Lib/site-packages/google_crc32c/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/google_crc32c/__pycache__/_checksum.cpython-37.pyc",
+    "Lib/site-packages/google_crc32c/__pycache__/cffi.cpython-37.pyc",
+    "Lib/site-packages/google_crc32c/__pycache__/python.cpython-37.pyc",
+    "Lib/site-packages/google_crc32c/_checksum.py",
+    "Lib/site-packages/google_crc32c/_crc32c_cffi.pyd",
+    "Lib/site-packages/google_crc32c/cffi.py",
+    "Lib/site-packages/google_crc32c/python.py",
+    ".nonadmin"
+  ],
+  "fn": "google-crc32c-1.1.2-py37h2bbff1b_0.conda",
+  "legacy_bz2_md5": "c8f65496e1ec818d8fd091fac246e14d",
+  "legacy_bz2_size": 27587,
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\Users\\aasif\\anaconda3\\pkgs\\google-crc32c-1.1.2-py37h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "c2654b33aeca25133c35240667053010",
+  "name": "google-crc32c",
+  "package_tarball_full_path": "C:\\Users\\aasif\\anaconda3\\pkgs\\google-crc32c-1.1.2-py37h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/google_crc32c-1.1.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c-1.1.2.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "51b88fd3e9e24edcdce1dd145a4fca2dcd12911407f00b06dfa6ff600f9733c1",
+        "sha256_in_prefix": "51b88fd3e9e24edcdce1dd145a4fca2dcd12911407f00b06dfa6ff600f9733c1",
+        "size_in_bytes": 11358
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c-1.1.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "c833b0c3fd66fc0cf5a0a0a316064be1cc953c975a90c038d0f42cbcc84451d5",
+        "sha256_in_prefix": "c833b0c3fd66fc0cf5a0a0a316064be1cc953c975a90c038d0f42cbcc84451d5",
+        "size_in_bytes": 3208
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c-1.1.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "cee21994052652ce9a91e6273afbcc69afa8f160dbb41f24cfb2e64b9b8ceefa",
+        "sha256_in_prefix": "cee21994052652ce9a91e6273afbcc69afa8f160dbb41f24cfb2e64b9b8ceefa",
+        "size_in_bytes": 1568
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c-1.1.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c-1.1.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "ccc46a17d65f1c6c413dfbdc5b013e2f171591d075861afc872e1c39f6463d95",
+        "sha256_in_prefix": "ccc46a17d65f1c6c413dfbdc5b013e2f171591d075861afc872e1c39f6463d95",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c-1.1.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "2c99e0464e93ca0e8e47f592d9248a0bf8980f8aa848ff5cdd80ee2169e74f52",
+        "sha256_in_prefix": "2c99e0464e93ca0e8e47f592d9248a0bf8980f8aa848ff5cdd80ee2169e74f52",
+        "size_in_bytes": 73
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c-1.1.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "afb3cb3e52a37e13192ea791b0a5c841d2336dedc5aefff6fdbf1799cbd9e054",
+        "sha256_in_prefix": "afb3cb3e52a37e13192ea791b0a5c841d2336dedc5aefff6fdbf1799cbd9e054",
+        "size_in_bytes": 14
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c-1.1.2.dist-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+        "sha256_in_prefix": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+        "size_in_bytes": 2
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c/__config__.py",
+        "path_type": "hardlink",
+        "sha256": "a7e30035cc81add6ff34caaf7730a0df7e0001b98d7e036f685909cf33cfc0c4",
+        "sha256_in_prefix": "a7e30035cc81add6ff34caaf7730a0df7e0001b98d7e036f685909cf33cfc0c4",
+        "size_in_bytes": 1293
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "97bb1146fb62ae1a0b45c2c20d3194217c698df1437508f2bd602217ddc2d97b",
+        "sha256_in_prefix": "97bb1146fb62ae1a0b45c2c20d3194217c698df1437508f2bd602217ddc2d97b",
+        "size_in_bytes": 1291
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c/__pycache__/__config__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "d03ef354dc478ba748b542492c2a8c51a4514ab8ef7e7028d4f50b52342a121c",
+        "sha256_in_prefix": "d03ef354dc478ba748b542492c2a8c51a4514ab8ef7e7028d4f50b52342a121c",
+        "size_in_bytes": 690
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "ba83a6200c83e6d28a7db0fba5fde3af5c3415df9ffa37f0ebb87c8e91111838",
+        "sha256_in_prefix": "ba83a6200c83e6d28a7db0fba5fde3af5c3415df9ffa37f0ebb87c8e91111838",
+        "size_in_bytes": 671
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c/__pycache__/_checksum.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "3bc44804d598749b8487de359aca39318f259a61144ae8faa23e2f44ab4db81b",
+        "sha256_in_prefix": "3bc44804d598749b8487de359aca39318f259a61144ae8faa23e2f44ab4db81b",
+        "size_in_bytes": 2596
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c/__pycache__/cffi.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "91be9562990a62a9e8a98cdd2158f065a7eee0f65e6c4735ce94ca54c474afc4",
+        "sha256_in_prefix": "91be9562990a62a9e8a98cdd2158f065a7eee0f65e6c4735ce94ca54c474afc4",
+        "size_in_bytes": 2075
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c/__pycache__/python.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "75bef038e83f5192a37a6eec5130b14afa4e21107a2f1b5f7d315a4e19e46a79",
+        "sha256_in_prefix": "75bef038e83f5192a37a6eec5130b14afa4e21107a2f1b5f7d315a4e19e46a79",
+        "size_in_bytes": 4841
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c/_checksum.py",
+        "path_type": "hardlink",
+        "sha256": "aa427a225533315736708acb4f16f296a24928ab33a87c28fdaa9b7b02001b2a",
+        "sha256_in_prefix": "aa427a225533315736708acb4f16f296a24928ab33a87c28fdaa9b7b02001b2a",
+        "size_in_bytes": 2617
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c/_crc32c_cffi.pyd",
+        "path_type": "hardlink",
+        "sha256": "465bb3d17c1cd68b437a32aa6aee0f24e952f7b0591368325579011a3b0dc62e",
+        "sha256_in_prefix": "465bb3d17c1cd68b437a32aa6aee0f24e952f7b0591368325579011a3b0dc62e",
+        "size_in_bytes": 12800
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c/cffi.py",
+        "path_type": "hardlink",
+        "sha256": "9e105ac3e12e67b46c359b979ffb72eed486b01409b8e92e352c07cb0a26a58a",
+        "sha256_in_prefix": "9e105ac3e12e67b46c359b979ffb72eed486b01409b8e92e352c07cb0a26a58a",
+        "size_in_bytes": 2281
+      },
+      {
+        "_path": "Lib/site-packages/google_crc32c/python.py",
+        "path_type": "hardlink",
+        "sha256": "f73cba001001fca33c24945c6671386faf15aa7384151366086b9fae371beea7",
+        "sha256_in_prefix": "f73cba001001fca33c24945c6671386faf15aa7384151366086b9fae371beea7",
+        "size_in_bytes": 5661
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "c7d5205800b190920466893602da9a945ae2be86afa73afd43d0fdd2254fdd4f",
+  "size": 25766,
+  "subdir": "win-64",
+  "timestamp": 1612243132275,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/google-crc32c-1.1.2-py37h2bbff1b_0.conda",
+  "version": "1.1.2"
+}
